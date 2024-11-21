@@ -19,10 +19,11 @@ Here are some ideas to get you started:
   <a href="https://github.com/devxb/gitanimals">
     <img
       src="https://render.gitanimals.org/farms/cj2174"
-      width="500"
+      width="600"
       height="300"
     />
   </a>
+  <br />
   <br />
   <a href="https://solved.ac/cj2174/">
     <img
