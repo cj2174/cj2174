@@ -31,4 +31,8 @@ Here are some ideas to get you started:
       width="350"
     />
   </a>
+  <br />
+  <br />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cj2174&langs_count=10&layout=compact&theme=white)](https://github.com/cj2174/cj2174)﻿
 
