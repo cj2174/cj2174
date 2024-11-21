@@ -15,16 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/farms/cj2174"
-    width="700"
-    height="300"
-  />
-</a>
 
-<a href="https://solved.ac/cj2174/">
-  <img
-    src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cj2174"
-  />
-</a>
+  <a href="https://github.com/devxb/gitanimals">
+    <img
+      src="https://render.gitanimals.org/farms/cj2174"
+      width="500"
+      height="300"
+    />
+  </a>
+  <br />
+  <a href="https://solved.ac/cj2174/">
+    <img
+      src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cj2174"
+      width="350"
+    />
+  </a>
+
