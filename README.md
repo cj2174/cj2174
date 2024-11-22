@@ -81,17 +81,14 @@ Here are some ideas to get you started:
 <br />
 <br />  
 <br />
-<br />
-<br />
  
-
 <div align="center">
   <table>
     <tr>
       <td>
         <!-- GitHub Stats -->
         <img src="https://github-readme-stats.vercel.app/api?username=cj2174&show_icons=true&theme=dracula" 
-          width="400"/>
+        />
       </td>
       <td>
         <!-- GitHub Top Languages -->
@@ -103,17 +100,7 @@ Here are some ideas to get you started:
         </a>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <!-- Solved.ac Badge -->
-        <a href="https://solved.ac/cj2174/">
-          <img
-            src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cj2174"
-            width="400"
-          />
-        </a>
-      </td>
-    </tr>
+   
   </table>
 </div>
 
