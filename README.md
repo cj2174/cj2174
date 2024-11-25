@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <br />
 <p align="center">
-  🚀 안녕하세요❗사용자 경험을 고민하는 <b>프론트엔드</b> 개발자 최윤서입니다. 👩‍🚀  
+  🚀 안녕하세요❗<br>사용자 경험을 고민하는 <b>프론트엔드</b> 개발자 최윤서입니다. 👩‍🚀  
   <br />  
   <br />
   <br />
