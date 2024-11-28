@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <br />
 
 
-<br />
+
 <p align="center">
    안녕하세요<br>🚀사용자 경험을 고민하는 <b>프론트엔드</b> 개발자 최윤서입니다. 👩‍🚀  
   <br />  
@@ -52,8 +52,7 @@ Here are some ideas to get you started:
   </a>
 </div>
 <br />
-<br />
-<br />
+
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align=center> 
@@ -78,7 +77,7 @@ Here are some ideas to get you started:
   <br />
   <br />
 <br />  
-<br />
+
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&reversal=true&section=footer&fontSize=80" /></div>
  
