@@ -1,6 +1,6 @@
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&section=header&text=Yunseo's%20Github&fontSize=80" /></div>
 
-## Hi there 👋
+
 
 <!--
 **cj2174/cj2174** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 <br />
 <br />
 <br />
-<br />  
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align=center> 
@@ -78,12 +77,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
   <br />
   <br />
-
-<br />
-<br />
-<br />
 <br />  
 <br />
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=180&reversal=true&section=footer&fontSize=80" /></div>
  
 <div align="center">
   <table>
