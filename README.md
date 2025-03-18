@@ -5,7 +5,7 @@
 <br />
 
 <p align="center">
-  🚀 안녕하세요! 사용자 경험을 고민하는 <b>프론트엔드</b> 개발자 최윤서입니다. 👩‍🚀  
+  🚀 사용자 경험을 고민하는 <b>프론트엔드</b> 개발자 최윤서입니다. 👩‍🚀  
   <br />
   <br />
   ⚡ 다양한 프로젝트를 통해 성장하고 있습니다.  
@@ -59,6 +59,14 @@
     <img src="https://img.shields.io/badge/Email-cd3a2f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+<br />
+
+<h3 align="center">📜 Certifications 📜</h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/정보처리기사-B4D6D3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/웹디자인기능사-B8BAC8?style=for-the-badge">
+</div>
 
 <br />
 
